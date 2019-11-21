@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Demo
+Comment=RaptorQ demo
+Exec=/home/raptorq/demo/RqDemo1/gui/demo_gui.py
+Icon=org.gnome.Terminal
+Path=/home/raptorq/demo/RqDemo1/gui/
+Terminal=false
+Type=Application
+Categories=Utility;Application;
