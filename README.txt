@@ -4,6 +4,10 @@ RaptorQ Demo Software
 Required software:
 	* C compiler toolchain, inclusive cmake
 	* CodornicesRq or TvRQ installed
+	NOTE: TvRq is intended for compliance, but not to be fast. 
+	It can be found here: https://github.com/lorinder/TvRQ
+	CodornicesRq is both compliant and fast. 
+	More information is available here: https://www.codornices.info/
 	* python 3 with tkinter
 	* mpv video player
 	* ffmpeg
